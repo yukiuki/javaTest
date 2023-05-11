@@ -38,13 +38,5 @@ public class Class0511_01 {
 					System.out.println();
 				}
 
-
-
-
-
-
-
-
-
 	}
 }
