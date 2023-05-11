@@ -23,7 +23,7 @@ public class Class0509_10 {
 //		System.out.println(result);	
 		
 //	실수 소수점자리 7자리 까지 입력받아, 소수점 4자리까지만 출력하시오.
-
+//
 		double num = 0;
 		Scanner scan = new Scanner(System.in);
 		System.out.println("실수 소수점자리 7자리 까지 입력받아, 소수점 4자리까지만 출력하시오");

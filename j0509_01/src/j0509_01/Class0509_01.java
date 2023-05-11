@@ -14,7 +14,7 @@ public class Class0509_01 {
 		int num3 = 3;
 		int num4 = 4;
 		int num5 = 5;
-		
+//		
 		
 		System.out.printf("더하기 결과값 :  %d  \n",num+num2); 
 		//% 와 \는 같은 것임

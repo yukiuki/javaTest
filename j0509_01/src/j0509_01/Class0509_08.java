@@ -15,7 +15,7 @@ public class Class0509_08 {
 		int b = 2000000;
 		long c = (long)(a)*b; 
 		System.out.println(c);
-			
+//			
 //		/대문자 입력시 소문자로 출력 하시오.
 //		1.변수 확인,   2. 입력     3. 출력
 //		char ch = ' ';

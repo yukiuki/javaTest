@@ -20,7 +20,7 @@ public class Class0509_04 {
 		System.out.println("이름을 입력하세요.");
 		name1 = id_1.next();
 		
-		
+//		
 		
 		System.out.println(" --------------------------------------------------------");
 		System.out.println(" \t아이디\t패스워드\t이름");

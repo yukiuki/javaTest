@@ -27,7 +27,7 @@ public class Class0509_03 {
 		math = scan.nextInt();
 			
 		
-		
+//		
 		int total = kor + eng + math; //소숫점으로 입력하고 싶으면 int->double로 변경
 		double  avg = total/3.0;	
 		System.out.println(" --------------------------------------------------------");
