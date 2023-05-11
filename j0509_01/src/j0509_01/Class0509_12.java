@@ -11,10 +11,10 @@ public class Class0509_12 {
 		String result = (ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z')?"영문 입니다.":"영문소문자가 아닙니다.";
 		
 		System.out.println(result);
-		123
+		
 //		
 	
-	
+//	
 	}
 
 }
