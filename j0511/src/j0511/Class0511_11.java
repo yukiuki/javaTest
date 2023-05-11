@@ -9,6 +9,13 @@ public class Class0511_11 {
 		System.out.println(num2);
 		System.out.println("-------------------");
 		
+		
+		
+		
+		//배열을 복사할때 데이터의 값을 그냥 넣으면 안됨.
+		// 배열 복사를 사용해야함.
+		
+		
 		int[] input = new int[3];
 		input[0] = 5;
 		
